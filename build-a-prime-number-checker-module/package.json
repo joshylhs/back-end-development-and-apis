@@ -1,0 +1,17 @@
+{
+  "name": "build-a-prime-number-checker-module",
+  "version": "1.0.0",
+  "description": "contains funcif a number is prime",
+  "keywords": [
+    "check",
+    "prime",
+    "number"
+  ],
+  "license": "MIT",
+  "author": "Josh Low",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  }
+}
