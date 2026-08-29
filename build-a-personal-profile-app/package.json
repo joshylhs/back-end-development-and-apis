@@ -1,0 +1,15 @@
+{
+  "name": "build-a-personal-profile-app",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

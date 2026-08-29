@@ -10,7 +10,7 @@ const jokes = [
 
 
 app.get('/', (req, res) => {
-    res.send('Welcome to the Random Joke Server! Visit /joke to get a random joke.')
+    res.send('Welcome to the Random Joke Server! Visit /joke to get a random joke.');
 });
 
 app.get('/joke', (req, res) => {
