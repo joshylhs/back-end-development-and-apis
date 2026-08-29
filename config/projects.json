@@ -102,13 +102,14 @@
     "dashedName": "build-a-submission-form",
     "isIntegrated": false,
     "isPublic": true,
-    "currentLesson": 3,
+    "currentLesson": 21,
     "runTestsOnWatch": true,
     "seedEveryLesson": false,
     "isResetEnabled": false,
     "blockingTests": null,
     "breakOnFailure": null,
-    "numberOfLessons": 22
+    "numberOfLessons": 22,
+    "completedDate": 1787997174497
   },
   {
     "id": 8,
@@ -121,7 +122,8 @@
     "isResetEnabled": false,
     "blockingTests": true,
     "breakOnFailure": true,
-    "numberOfLessons": 1
+    "numberOfLessons": 1,
+    "completedDate": 1788029030001
   },
   {
     "id": 9,

@@ -1,9 +1,9 @@
 {
-  "currentProject": null,
+  "currentProject": "build-a-weather-service-api",
   "locale": "english",
   "lastSeed": {
-    "projectDashedName": null,
-    "lessonNumber": -1
+    "projectDashedName": "build-a-web-server",
+    "lessonNumber": 59
   },
-  "lastWatchChange": 3
+  "lastWatchChange": 0
 }
