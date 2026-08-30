@@ -1,9 +1,9 @@
 {
-  "currentProject": null,
+  "currentProject": "build-jwt-protected-routes",
   "locale": "english",
   "lastSeed": {
     "projectDashedName": "build-a-resource-monitor",
     "lessonNumber": 15
   },
-  "lastWatchChange": 19
+  "lastWatchChange": 0
 }
