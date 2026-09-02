@@ -1,6 +1,7 @@
 import fs from "fs";
 import path from "path";
 import users from "../data/users.json" with { type: "json" };
+// import * as db from './utils/db.js';
 
 const WATCHLISTS_PATH = path.join(
   import.meta.dirname,
